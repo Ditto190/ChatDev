@@ -1,0 +1,5 @@
+Django==3.2.7
+Flask==2.0.1
+google-cloud-storage==1.42.0
+onedrivesdk==2.3.1
+react==17.0.2

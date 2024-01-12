@@ -1,0 +1,14 @@
+Develop a web-based Python application integrating MAS systems AutoGen and ChatDev, designed for local desktop environment. The application should:
+1. Set up a Django/Flask environment on the local desktop, including Python, Django/Flask, and necessary libraries.
+2. Clone AutoGen and ChatDev repositories into a specific directory, maintaining distinct structures for each system.
+3. Develop RESTful APIs in Django/Flask for interacting with AutoGen and ChatDev, including data parsing and error management.
+4. Create a module for managing local open-source LLMs, with initialization, loading, and unloading functionalities.
+5. Implement modules for Google Cloud and OneDrive integration, including authentication and document upload/download capabilities.
+6. Develop a React-based UI for local desktop usage, with distinct sections for MAS interactions, local LLM management, and document handling. Include a data library UI with tabs for code, tables, and figures, and support for local and cloud storage.
+7. Implement a feedback mechanism with a UI form, directing feedback to an 'improvement table' and converting feedback into structured prompts for ChatDev.
+8. Integrate a metrics system for monitoring application and MAS performance, and develop an interactive dashboard.
+9. Ensure robust security protocols including HTTPS, encryption, and secure cloud authentication, and comply with GDPR.
+10. Create detailed test plans for all components, emphasizing testing in a local desktop environment.
+11. Provide comprehensive documentation and a user support framework.
+12. Prepare a local deployment guide and a maintenance plan with regular updates and optimizations.
+Include Human-Agent-Interaction mode for interactive code review and modification based on user inputs.

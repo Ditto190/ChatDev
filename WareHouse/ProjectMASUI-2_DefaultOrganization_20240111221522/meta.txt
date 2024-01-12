@@ -1,0 +1,32 @@
+Task:
+Continue developing 'ProjectMASUI-2', a web-based Python application integrating MAS systems AutoGen and ChatDev. Address any foundational issues first, then proceed with enhancing the backend APIs in Django/Flask for more advanced interactions with AutoGen and ChatDev, including sophisticated data parsing and comprehensive error management. Further develop the local open-source LLM management module for added functionalities. Expand the React-based UI to fully realize the interactive sections for MAS interactions, LLM management, and cloud storage integration. Complete the initial modules for Google Cloud and OneDrive, ensuring robust authentication and file handling. Ensure that all developed components are aligned with the initial design specifications.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: True
+ChatEnvConfig.background_prompt: ChatDev is a software company powered by multiple intelligent agents, such as chief executive officer, chief human resources officer, chief product officer, chief technology officer, etc, with a multi-agent organizational structure and the mission of 'changing the digital world through programming'.
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+web-based application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+3.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
